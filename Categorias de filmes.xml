@@ -1,38 +1,3 @@
-<channels>
-<channel>
-<name>[COLOR green]•[/COLOR][I]LANÇAMENTOS (OFICIAL)[/I]</name>
-<thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
-<externallink>https://bit.ly/3AHKY9h</externallink>
-<fanart>https://</fanart>
-<info>
-[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-[B]Previsão:[/B]
-
-*Doutor Estranho 2: 22/06
-
-
-</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR green]•[/COLOR][I]NOS CINEMAS (CAM)[/I]</name>
-<thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
-<externallink>https://bit.ly/3lMDCdT</externallink>
-<fanart>https://</fanart>
-<info>
-[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-**Filmes com audio e imagem de cinema.
-</info>
-</channel>
-</channels>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <channels>                                                     
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white]AÇÃO[/COLOR]</name>
@@ -324,93 +289,10 @@ EM CONSTRUÇÃO
 <externallink>https://bit.ly/35yAyNC</externallink>
 <fanart>https://</fanart>
 <info>
-
 [B][COLOR green]▲[/COLOR]ONLINE[/B]
-
 </info>
 </channel>
 </channels>
 
 
-<channels>                                                     
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][I]FILMES EM[/COLOR] [COLOR yellow][B]4K[/B][/COLOR][/I]</name>
-<thumbnail>https://thumbs.dreamstime.com/b/de-k-logotipo-do-formato-ultra-hd-com-letras-brilhantes-do-cromo-78856082.jpg</thumbnail>
-<externallink>https://bit.ly/3ADPdTf</externallink>
-<fanart>https://www.copeltelecom.com/site/wp-content/uploads/2016/11/iStock-504448596.jpg</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
-[B][COLOR red]●[/COLOR]Arquivos com mais de 30gb[/B]
-[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
-[B][COLOR red]●[/COLOR]Minimo de 800MB de memoria RAM livres[/B]
-</info>
-</channel>
-</channels>
----------------------------------------------
-<channels>
-<channel>
-<name>[COLOR green]•[/COLOR][COLOR white][I]FILMES EM[/COLOR] [COLOR yellow][B]3D[/B][/COLOR][/I]</name>
-<thumbnail>http://s.glbimg.com/po/tt/f/original/2013/06/14/samsung3d-620px.png</thumbnail>
-<externallink>https://bit.ly/3ugZR0K</externallink>
-<fanart>https://viajento.files.wordpress.com/2019/05/cinema-filme-3d.jpg</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-[B][COLOR red]Total[/COLOR]: 141 Filmes[/B]
-[B]Função 3D apenas funciona em windows ou em tv 3D. KODI retirou a função para android[/B]</info>
-</channel>
-</channels>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<channels>                                                     
-<channel>
-<name>[COLOR green]•[/COLOR][I][COLOR white]FILMES EM[/COLOR] [COLOR yellow][B]IMAX[/B][/COLOR][/I]</name>
-<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/09/imax-b9.jpg</thumbnail>
-<externallink>https://bit.ly/3IMZK1e</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-[B]Aba feita para as tvs que nao suportam [COLOR cyan]4K(3840X2160)[/COLOR]! Filmes aqui estao em [COLOR cyan]IMAX ULTRA FULL HD (1980x1080)[/COLOR][/B]
-[B][COLOR red]Total[/COLOR]: 56 Filmes[/B]
-</info>
-</channel>
-</channels>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<channels>
-<channel>
-<name>[COLOR red]●[/COLOR][COLOR cyan][I]PEDIDOS[/I][/COLOR] [Breve]</name>
-<thumbnail>https://copias.supermidiapf.com.br/wp-content/uploads/sites/4/comandas/Comanda-Gr%C3%A1fica-Digital-Passo-Fundo-Super-C%C3%B3pias.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://</fanart>
-<info>Pedidos deveram conter:
-
-- NOME
-- ANO
-- GENERO
-- IDIOMA DE PREFERENCIA
-
-"APENAS FILMES,NADA ALÉM DISSO. SERAO ADICIONADOS POR ORDEM E APENAS UM PEDIDO POR PESSOA!."
-
-"PESSOAS QUE JA DOARAM PARA O ADDON,TERAO PRIORIDADE"
-</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]•[/COLOR][COLOR white]teste[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
-<externallink>https://bit.ly/3MwtD7y</externallink>
-<fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
-<info>
-[B]UM ACERVO BACANA DE FILMES COM LINK DIRETO EM HD,FHD,REMUX & 4K DUAL AUDIO.[/B]
-
-[COLOR yellow]*OBS[/COLOR]: RECOMENDADO USAR UM PLAYER EXTERNO: JUST (VIDEO) PLAYER OU MX PLAYER
-</info>
-</channel>
-</channels>
-......................................................................................
+.
