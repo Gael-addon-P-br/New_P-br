@@ -41,8 +41,8 @@
 
 <item>
 <title>Arremessando Alto</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab71c9c4b0a5e08fc32533f4a2eae57e3ca355$nome=Arremessando Alto 1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dd6f127ce82a70b9aa6231c2f4eda38cee4a256$nome=Arremessando Alto 1080p [Sem compactaçao]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab71c9c4b0a5e08fc32533f4a2eae57e3ca355&name=Arremessando Alto 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dd6f127ce82a70b9aa6231c2f4eda38cee4a256&name=Arremessando Alto 1080p [Sem compactaçao]</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/22/05/25/20/17/5781885.jpg</thumbnail>
 <fanart>https://img.estadao.com.br/thumbs/640/resources/jpg/9/0/1652204694409.jpg</fanart>
 <genre>Comédia | Drama | Esporte</genre>
@@ -56,9 +56,9 @@
 
 <item>
 <title>Cidade Perdida</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ab5b765956bdb32afba856b40a7821b21cf0c11$nome=Cidade Perdida 1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d5e3196ecfd91671e75018092db3e162d9e40a$nome=Cidade Perdida 1080p [Sem compactaçao]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622628c7288a9b2df923e70744947c8e163bd246$nome=Cidade Perdida (4K)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ab5b765956bdb32afba856b40a7821b21cf0c11$lsname=Cidade Perdida 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d5e3196ecfd91671e75018092db3e162d9e40a$lsname=Cidade Perdida 1080p [Sem compactaçao]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622628c7288a9b2df923e70744947c8e163bd246$lsname=Cidade Perdida (4K)</link>
 <thumbnail>https://jardimdasamericas.com.br/uploads/2022/04/capa-filme-a-cidade-perdida-1282c-large.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/GSAXi31rrpBx6OICU4O8LBWT1VY=/0x0:1920x1080/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/z/kGY71US5esxhBFvJ0hNA/cidade-perdida-capa.jpg</fanart>
 <genre> Ação | Aventura | Comédia</genre>
