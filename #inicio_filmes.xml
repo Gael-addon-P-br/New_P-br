@@ -2,7 +2,7 @@
 	<channel>
 		<name>[COLOR green]•[/COLOR]FILMES ([COLOR gray]2022[/COLOR])</name>
 		<thumbnail>https://thumbs.dreamstime.com/b/clapperboard-conceito-dos-filmes-83903796.jpg</thumbnail>
-		<externallink>https://</externallink>
+		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23Lan%C3%A7amentos_Principais.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>
 [B]OS MAIS RECENTES LANÇAMENTOS EM VOD E STREAMINGS PARA VOCES[/B]
@@ -14,7 +14,7 @@
 	<channel>
 		<name>[COLOR green]•[/COLOR]FILMES ([COLOR gray]CINEMA[/COLOR])</name>
 		<thumbnail>https://thumbs.dreamstime.com/b/clapperboard-conceito-dos-filmes-83903796.jpg</thumbnail>
-		<externallink>https://</externallink>
+		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23lancamentos_cinema.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>
 [B]FILMES AQUI SE ENCONTRAM COM AUDIO E IMAGEM DE CINEMA[/B]
@@ -24,7 +24,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]FILMES ([COLOR gray]POR GENERO[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]FILMES ([COLOR gray]GENERO[/COLOR])</name>
 		<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -73,3 +73,18 @@
 	</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
+
+<channels>
+<channel>
+<name>[COLOR yellow]•[/COLOR]FILMES ([COLOR gray]LINK DIRETO[/COLOR])</name>
+<thumbnail>https://archive.org/download/filmes-diversos-zokos/Filmes%20Diversos%20Zokos.jpg</thumbnail>
+<externallink>https://bit.ly/3MwtD7y</externallink>
+<fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
+<info>
+[B]ABA COM FILMES COM LINK DIRETO (UM CLIQUE)[/B]
+
+[COLOR yellow]*OBS[/COLOR]: RECOMENDADO USAR UM PLAYER EXTERNO: JUST (VIDEO) PLAYER OU MX PLAYER
+</info>
+</channel>
+</channels>
+.....................................................................................
