@@ -1,6 +1,6 @@
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]EM ALTA[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR yellow]EM ALTA[/COLOR])</name>
 		<thumbnail>https://png.pngtree.com/png-vector/20190830/ourlarge/pngtree-stock-graph-without-bars-positive-green-going-up-png-image_1711783.jpg</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://w7.pngwing.com/pngs/444/1017/png-transparent-bar-chart-graph-of-a-function-graph-going-up-text-logo-graph-of-a-function.png</fanart>
@@ -12,7 +12,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]NETFLIX[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR red]NETFLIX[/COLOR])</name>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png</thumbnail>
 		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/1_Netflix.xml</externallink>
 		<fanart>https://www.tixtelecom.com.br/wp-content/uploads/2021/02/Netflix-ok.jpg</fanart>
@@ -24,9 +24,9 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]PRIME VIDEO[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR blue]PRIME VIDEO[/COLOR])</name>
 		<thumbnail>https://tudosobretudo.net/wp-content/uploads/2020/03/Amazon-Prime-Video.png</thumbnail>
-		<externallink>https://</externallink>
+		<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/1_Amazon.xml</externallink>
 		<fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
 		<info>
 [B]SÉRIES ORIGINAIS PRIME VIDEO[/B]
@@ -36,7 +36,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]HBO MAX[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR purple]HBO MAX[/COLOR])</name>
 		<thumbnail>https://play-lh.googleusercontent.com/GmIOtlRHzTffK3WSyNrz4NNrWFh_yUuhQb9UHXztk0ZxeeFzAUD52b9YVTGh7nsdJ8c</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://escotilha.com.br/wp-content/uploads/2021/07/minisseries-hbo-max-protagonistas-femininas.jpg</fanart>
@@ -48,7 +48,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]GLOBOPLAY[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR orange]GLOBOPLAY[/COLOR])</name>
 		<thumbnail>https://play-lh.googleusercontent.com/FGkwAiCMsdzHLpWnhk_rG-LpcIoCNgJDMrMCKxf_LTaXiWEboFAyeMQCf9eDI4MzjOg</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://www.minhaoperadora.com.br/wp-content/uploads/2020/12/como-contratar-o-globoplay-passo-a-passo.jpg</fanart>
@@ -60,7 +60,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]DISNEY+[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR blue]DISNEY+[/COLOR])</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://www.oficinadanet.com.br/imagens/post/33643/capa-disneyplus.png</fanart>
@@ -72,7 +72,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR gray]APPLETV+[/COLOR])</name>
+		<name>[COLOR green]•[/COLOR]SÉRIES ([COLOR white]APPLETV+[/COLOR])</name>
 		<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
 		<externallink>https://</externallink>
 		<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
