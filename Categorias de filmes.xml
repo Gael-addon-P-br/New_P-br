@@ -13,7 +13,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]AÇÃO[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Acão[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23A%C3%A7%C3%A3o.xml</externallink>
 <fanart>https://</fanart>
@@ -30,7 +30,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]ANIMAÇÃO[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Animação[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/animacao.xml</externallink>
 <fanart>https://</fanart>
@@ -45,7 +45,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR yellow]•[/COLOR][COLOR white]BIOGRAFIA[/COLOR]</name>
+<name>[COLOR yellow]•[/COLOR][COLOR white]Biografia[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Biografia.xml</externallink>
 <fanart>https://</fanart>
@@ -61,7 +61,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]CLASSICOS[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Clássicos[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/classicos.xml</externallink>
 <fanart>https://</fanart>
@@ -77,7 +77,7 @@ EM CONSTRUÇÃO
 
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]COMÉDIA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Comédia[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/comedia.xml</externallink>
 <fanart>https://</fanart>
@@ -97,7 +97,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]DOCUMENTARIOS[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Documentarios[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Documentarios.xml</externallink>
 <fanart>https://</fanart>
@@ -113,7 +113,7 @@ EM CONSTRUÇÃO
 
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]DRAMA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Drama[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/drama.xml</externallink>
 <fanart>https://</fanart>
@@ -131,7 +131,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]FAROESTE[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Faroeste[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Faroeste.xml</externallink>
 <fanart>https://</fanart>
@@ -146,7 +146,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]FICÇÃO CIENTIFICA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Ficção Cientifica[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Fic%C3%A7ao.xml</externallink>
 <fanart>https://</fanart>
@@ -161,7 +161,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]GUERRA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Guerra[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/guerra.xml</externallink>
 <fanart>https://</fanart>
@@ -175,7 +175,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]LGBT[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Lgbt[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Lgbt.xml</externallink>
 <fanart>https://</fanart>
@@ -189,7 +189,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]LUTA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Luta[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Luta.xml</externallink>
 <fanart>https://</fanart>
@@ -204,7 +204,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]MAFIA[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Mafia[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Mafia.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
@@ -222,7 +222,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]NACIONAIS[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Nacionais[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
@@ -236,7 +236,7 @@ EM CONSTRUÇÃO
 --------------------------------------
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]RELIGIAO[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Religião[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/religiosos.xml</externallink>
 <fanart>https://</fanart>
@@ -250,7 +250,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]ROMANCE[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Romance[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/romance.xml</externallink>
 <fanart>https://</fanart>
@@ -268,7 +268,7 @@ EM CONSTRUÇÃO
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]SUSPENSE[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Suspense[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Suspense.xml</externallink>
 <fanart>https://</fanart>
@@ -282,7 +282,7 @@ EM CONSTRUÇÃO
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]•[/COLOR][COLOR white]TERROR[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white]Terror[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/terror.xml</externallink>
 <fanart>https://</fanart>
