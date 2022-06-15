@@ -118,8 +118,8 @@
 
 <item>
 <title>X</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f54542131654f77976907c20d978eb6827f0ca0$nome=[B]X 2022 1080p - Leg[/B]</link>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b4a9cd3f3695f30fa803dbdf47c1bb686a6ce2f$nome=[B]X 2022 1080p (2) - Leg[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f54542131654f77976907c20d978eb6827f0ca0$nome=[B]X 2022 1080p ([COLOR gray]EN[/COLOR])[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b4a9cd3f3695f30fa803dbdf47c1bb686a6ce2f$nome=[B]X 2022 1080p (2) ([COLOR gray]EN[/COLOR])[/B]</link>
 <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUfT9V3TqjCwDoY0ZnIHpD_dbtgixAcuPhSY2qmQtu4JOcCScTdK81gQshnEoZrWC2IV_5UT7m4QMS6uwz4hD1DUYr0jO-bW_by4wLhQzYxJU8Ydon4GzKk4chqJVYeTYbEeqR9HEXRRgsQW5-L54A8-4wOKVwjreLVtxIt09JKGN_X9kmM67_zfqW2A/s350/X.jpg</thumbnail>
 <genre>[I]Terror[/I]</genre>
 <aired>2022/03/18</aired>
@@ -250,7 +250,7 @@ Para descobrir as respostas, Grace deve deixar de lado todos seus medos e crenç
 </item>
 
 <item>
-<title>Mártires - Leg</title>
+<title>Mártires ([COLOR gray]EN[/COLOR])</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d52f2b0594aebdc98ce933df84665f04293c61eb$nome=[B]Martyrs 2008 - 1080p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:d52f2b0594aebdc98ce933df84665f04293c61eb$nome=Martyrs 2008 [T]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bhq0r5zoXJQcHJ4UaMMVz4n3o86.jpg</thumbnail>
@@ -332,7 +332,7 @@ Para descobrir as respostas, Grace deve deixar de lado todos seus medos e crenç
 
 
 <item>
-<title>The Medium - Leg</title>
+<title>The Medium ([COLOR gray]EN[/COLOR])</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36ebcac846e2ae7fbfe50807bb5b7c54bfc78f75$nome=[B]The Medium 2021 1080p[/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faf9dc938ba041dab8b5bd0cdb1d3be1b269fdbb$nome=The Medium 2021 1080p [x265]</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@.jpg</thumbnail>
@@ -489,7 +489,7 @@ Para descobrir as respostas, Grace deve deixar de lado todos seus medos e crenç
 10
 
 <item>
-<title>Aterrados - Leg</title>
+<title>Aterrados ([COLOR gray]EN[/COLOR])</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2064583d4a11095610bedbbb95c7827685b7dc09$nome=[B]Aterrados 2018 - 1080p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:2064583d4a11095610bedbbb95c7827685b7dc09$nome=Aterrados 2018 [T]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tFQX0I6gHGO8lfeQN8Za8YepWqx.jpg</thumbnail>
@@ -825,7 +825,7 @@ Uma jovem baba descobre segredos sombrios enquanto cuida de dois orfaos perturba
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>O conto das duas irmas - Leg </title>
+<title>O conto das duas irmas ([COLOR gray]EN[/COLOR]) </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c18de1360bf4f4f162a8edac547d6c515bdf6e34</link>
 <thumbnail>https://meulogbook.files.wordpress.com/2015/01/a_tale_of_two_sisters_film.jpg</thumbnail>
 
@@ -920,7 +920,7 @@ Uma serie de eventos alarmantes faz com que uma mulher acredite que algum mal es
 <item>
 <title>Nao Tenha Medo do Escuro </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a244d09831c7d42ac8f287556848e2629f20eec7$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47224f17201b3857453759057a8cbeef3b2a8c7c$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47224f17201b3857453759057a8cbeef3b2a8c7c$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/lP17nGtRNwkkn1v8dKOAvWdRGUC.jpg</thumbnail>
 <info>Sally Hurst (Bailee Madison) e uma criança solitaria e curiosa, que foi morar com seu pai Alex (Guy Pearce) e Kim (Katie Holmes) numa mansao do seculo 19. Um dia, enquanto explorava a enorme propriedade, ela descobre um local escondido e isolado, desde que o construtor da residência desapareceu um seculo atras. É quando a menina acaba libertando estranhas criaturas que pretendem leva-la para o mundo das trevas e precisa convencer os adultos de que nao se trata de uma fantasia, mas de uma assustadora realidade.</info>
 </item>
@@ -965,7 +965,7 @@ Uma serie de eventos alarmantes faz com que uma mulher acredite que algum mal es
 <item>
 <title>Possuida </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d97c50011acb5c71cd6b687f3d134d7308adf110$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3372fb8bbd1ea8d44f477b9e8eaeea28a246b5e$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3372fb8bbd1ea8d44f477b9e8eaeea28a246b5e$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/w0lED7SfqY8h2CEF5fDinbyBhSO.jpg</thumbnail>
 <info>Entediadas com as coisas da adolescência, as irmas Ginger (Katharine Isabelle) e Brigitte (Emily Perkins) procuram algo que provoque um pouco de agito em suas vidas. So que elas conseguem muito mais do que esperavam quando Ginger e atacada por uma fera selvagem, que lhe causa uma incrivel metamorfose. Uma força terrivel rapidamente se apodera de Ginger, ameaçando destruir o laço que une as irmas e todas as pessoas em torno delas. Na medida em que Ginger se transforma numa horrivel fera sedenta por sangue, Brigitte luta para liberta-la das garras do demônio, mas seu comportamento selvagem se torna cada vez mais incontrolavel.</info>
 </item>
@@ -974,7 +974,7 @@ Uma serie de eventos alarmantes faz com que uma mulher acredite que algum mal es
 <item>
 <title>Possuida 2: Força Incontrolavel </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a30e584503de686365035575da58c719d3c8aa4e$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bb9e4b4e7a81f5ad7817deea8df4de74efd9619$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bb9e4b4e7a81f5ad7817deea8df4de74efd9619$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/nTtyzQ1qFDJXLWvXX4wvOu0nYun.jpg</thumbnail>
 <info>Brigitte conta com uma droga para controlar sua licantropia. Confundida com uma viciada, ela e internada numa clinica de reabilitaçao para adolescentes e precisa garantir o fornecimento da droga. Para piorar a situaçao, outro lobisomem a persegue.</info>
 </item>
@@ -989,7 +989,7 @@ Uma serie de eventos alarmantes faz com que uma mulher acredite que algum mal es
 <item>
 <title>A Casa dos 1000 Corpos </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:082275bf218d5f243b6fef29e577cef25e8d2908$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6bfa3d8710e77e118b2800640143dcc6908e4fd$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6bfa3d8710e77e118b2800640143dcc6908e4fd$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg</thumbnail>
 <info>Na decada de 70, dois casais estao fazendo uma viagem em busca de diversao. Ao parar em uma loja de horrores na beira de uma estrada, eles conhecem a historia do Dr. Satan (Walter Phelan), um famoso medico que matava suas vitimas aos poucos. Dr. Satan foi preso e enforcado, mas nunca encontraram seu corpo. Animados com a historia, os jovens decidem visitar a arvore onde Dr. Satan foi enforcado para tentar descobrir onde esta seu corpo atualmente.</info>
 </item>
@@ -3784,14 +3784,14 @@ Uma adolescente (Abigail Breslin) e contaminada por um zumbi, mas sua transforma
 <title>A Invasora</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae210c4362489166a4fa881bf7671d20edce7d88$nome=[B]A Invasora (2007) - 720p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:ae210c4362489166a4fa881bf7671d20edce7d88$nome=[B]A Invasora (2007) [Torrest][/B]</link>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7bc6e65ab349ff3810ed0dd1554398564d1ede3$nome=[B]Inside (2007) [1080p] [BluRay] [5.1] [YTS.MX] - Legendado[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7bc6e65ab349ff3810ed0dd1554398564d1ede3$nome=[B]Inside (2007) [1080p] [BluRay] [5.1] [YTS.MX] ([COLOR gray]EN[/COLOR])endado[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/i6nv7YguWmdJaUHFTizvXwEpdFH.jpg</thumbnail>
 <genre>Terror</genre>
 <info>Sarah, uma jovem fotografa, esta sozinha na noite de Natal. Ela esta assim desde que seu marido morreu num acidente de carro. So e gravida, recebe apenas as visitas de sua mae dominadora e de seu chefe egocêntrico. A noite de Natal e o ultimo dia antes de ir para o hospital ter seu bebê. Mas o silêncio de sua casa e quebrado quando uma misteriosa mulher bate à sua porta. Sarah desconfia e nao atende. Todavia, a mulher se recusa a ir embora. Quando as coisas começam a se complicar, Sarah fica temerosa e chama a policia, enquanto a mulher a observa pela janela.</info>
 </item>
 
 <item>
-<title>Deixa Ela Entrar - Legendado</title>
+<title>Deixa Ela Entrar ([COLOR gray]EN[/COLOR])endado</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da32646c6f17b01adebc23e67ab0ccd816e458dc$nome=[B]Deixa Ela Entrar (2008) - 1080p[/B]</link>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0a3451092cb0a6477c5356deb3ab53d11cb8343$nome=[B]Deixa Ela Entrar (2008) - 720p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:e0a3451092cb0a6477c5356deb3ab53d11cb8343$nome=[B]Deixa Ela Entrar (2008) [Torrest][/B]</link>
@@ -3804,7 +3804,7 @@ Uma adolescente (Abigail Breslin) e contaminada por um zumbi, mas sua transforma
 <title>Possuida: O Inicio</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b564a28e1f46dab2ac00287116b39957e139e1a$nome=[B]Possuida: O Inicio (2004) - 720p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:8b564a28e1f46dab2ac00287116b39957e139e1a$nome=[B]Possuida: O Inicio (2004) [Torrest][/B]</link>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791ad280876d8e86601e19d108f0f1c26ce2f078$nome=[B]Ginger Snaps Back: The Beginning - Legendado[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791ad280876d8e86601e19d108f0f1c26ce2f078$nome=[B]Ginger Snaps Back: The Beginning ([COLOR gray]EN[/COLOR])endado[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qbGPtkrkoegA47TusJYuprKz0cP.jpg</thumbnail>
 <genre>Drama, Terror</genre>
 <info>No começo do seculo XIX, no Canada, as irmas orfas Ginger e Brigitte perdem-se na floresta e sao resgatadas por um misterioso indio que as leva de volta a Fort Bailey. O gesto e mal visto pelos colonos, e elas logo descobrirao o motivo.</info>
@@ -3823,7 +3823,7 @@ Uma adolescente (Abigail Breslin) e contaminada por um zumbi, mas sua transforma
 <title>Acorrentados</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2c1be7a96e0f180110a7694b25c268340b4b695$nome=[B]Acorrentados (2012) - 720p[/B]</link>
 -----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f2c1be7a96e0f180110a7694b25c268340b4b695$nome=[B]Acorrentados (2012) [Torrest][/B]</link>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83c9c8ac481d90dc9c07cb5bab286af93c0a0b9d$nome=[B]Chained (2012) - Legendado[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83c9c8ac481d90dc9c07cb5bab286af93c0a0b9d$nome=[B]Chained (2012) ([COLOR gray]EN[/COLOR])endado[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8MJCvge2ReUSFWzPndKySrf94np.jpg</thumbnail>
 <genre>Terror, Suspense, Crime</genre>
 <info>Bob (Vincent D’Onofrio) e um serial killer que vigia suas presas ao redor da cidade junto ao seu protegido Tim (Eamon Farren), que precisa fazer uma escolha de vida ou morte: seguir os passos de Bob ou se livrar dele.</info>
@@ -4690,7 +4690,7 @@ Depois que o terrivel fantasma da Rainha de Espadas ressurge, os alunos de um an
 
 
 <item>
-<title>Host - Leg</title>
+<title>Host ([COLOR gray]EN[/COLOR])</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1b5e54af0fb2dd1c3812bf68c398979ee1cb5c8$nome=[B]Host 2020 - 1080p[/B]</link>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0908e98673b4e902a0c22dbed344906fb6e6f9e8$nome=[B]Host 2020 - 720p[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/o978ZNS9QP9VH1wxBlL2ngcEj8o.jpg</thumbnail>
@@ -4861,7 +4861,7 @@ Depois que o terrivel fantasma da Rainha de Espadas ressurge, os alunos de um an
 <item>
 <title>O Instituto </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4de1d728bdfeb52899eac5aa9186f1a776ef1fb$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31e41acc18d0be177afcb7bc2e4318cfa065a978$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31e41acc18d0be177afcb7bc2e4318cfa065a978$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/dFenWW7lmcKx6ugdGe71DomecTe.jpg</thumbnail>
 <info>Em Baltimore do seculo 19, Isabel Porter, uma garota em luto pela morte prematura de seus pais, interna-se voluntariamente no Instituto Rosewood. Utilizada como cobaia em cada vez mais violentos experimentos pseudo-cientificos bizarros para alteraçao da personalidade, lavagem cerebral e controle da mente, ela deve escapar das garras de Rosewood ou se perdera para sempre. </info>
 </item>
@@ -4870,7 +4870,7 @@ Depois que o terrivel fantasma da Rainha de Espadas ressurge, os alunos de um an
 <item>
 <title>Os Estranhos </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee5941ca0c277cedef2ccc9b9a166b28179e56ac$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d0522055ac5b6284a9d5e499e46fdd7bb585d47$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d0522055ac5b6284a9d5e499e46fdd7bb585d47$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/ekskn5Zjclv4F2YBwJNmrYt4Z2q.jpg</thumbnail>
 <info>Kristen McKay (Liv Tyler) e James Hoyt (Scott Speedman) estao em plena viagem, rumo à remota casa de veraneio dos pais dele. Ao chegar eles apenas querem descansar um pouco, mas seu descanso e interrompido quando três estranhos mascarados invadem o local. Para piorar ainda mais a situaçao, os estranhos demonstram sentir prazer ao aterroriza-los cada vez mais.</info>
 </item>
@@ -6173,7 +6173,7 @@ Apos mais um dia de trabalho, tudo que Ana quer e tomar um banho ao lado do mari
 <item>
 <title>A Hora do Espanto </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7829dbbab7aa3607307a56376a6369ee2f996f86$nome=1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19fb1f7ab2409b8f2af076685ac2fb8121e20f33$nome=720p - Legendado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19fb1f7ab2409b8f2af076685ac2fb8121e20f33$nome=720p ([COLOR gray]EN[/COLOR])endado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/TO5tZneBdMNvzxdiMNW5b6Km07.jpg </thumbnail>
 <info>Charley (Anton Yelchin) esta encantado por sua namorada Amy (Imogen Poots), o que faz com que ele nao dê muita atençao ao papo do amigo Ed (Christopher Mintz-Plasse) sobre o fato do novo vizinho dele, Jerry Dandridge (Colin Farrell), ser um vampiro. Na verdade, nem mesmo sua mae Jane (Toni Collette) acredita que ele possa fazer mal a alguem, mas o sumiço de Ed faz com que Charley começe a investigar e sua descoberta coloca todos em perigo. A unica salvaçao parece ser Peter Vincent (David Tennant), famoso magico da cidade que parece entender de vampiros, mas depois afirma ser tudo fantasia. E agora?</info>
 </item>
@@ -6193,7 +6193,7 @@ Apos mais um dia de trabalho, tudo que Ana quer e tomar um banho ao lado do mari
 <item>
 <title>A Profecia </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee497babbce1f62bd48c1c24af14b541ca4d81e5$nome=1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24d8f8f07909226109910ec0e7fdba77c4602a3f$nome=720p - Legendado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24d8f8f07909226109910ec0e7fdba77c4602a3f$nome=720p ([COLOR gray]EN[/COLOR])endado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kf1Qq9b32jn4umll9qD2ue5ftnh.jpg</thumbnail>
 <info>Robert Thorn (Liev Schreiber) e um diplomata, que esta prestes a ter um filho com sua esposa Katherine (Julia Stiles). Porem a criança morre logo apos o parto, o que faz com que Robert adote um bebê para coloca-lo no lugar do filho, sem que Katherine soubesse. Seis anos depois Damien (Seamus Davey-Fitzpatrick), o filho de Robert e Katherine, começa a dar sinais de que seja o Anti-Cristo.</info>
 </item>
@@ -6203,7 +6203,7 @@ Apos mais um dia de trabalho, tudo que Ana quer e tomar um banho ao lado do mari
 <item>
 <title>A Inquilina </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e68f6d6f9f9b0d4332402503501c2c5cac24c992$nome=1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f3b4248dbae140af9d7237db13d20e49ee2085$nome=720p - Legendado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f3b4248dbae140af9d7237db13d20e49ee2085$nome=720p ([COLOR gray]EN[/COLOR])endado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ngoNJf7cfOq4bxSlVEjaKfdfCyd.jpg</thumbnail>
 <info>
 Juliet Devereau (Hilary Swank), uma jovem medica, acredita ter encontrado o lugar perfeito para morar, ela se muda para um apartamento no Brooklyn, em Nova York. Apos algum tempo, Juliet começa a perceber que coisas misteriosas estao ocorrendo e passa a acreditar que nao esta sozinha no apartamento. As coisas se complicam ainda mais com a crescente obsessao do senhorio do predio pela jovem.</info>
@@ -6264,7 +6264,7 @@ Juliet Devereau (Hilary Swank), uma jovem medica, acredita ter encontrado o luga
 <item>
 <title>A Casa Amaldiçoada (1999) </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:893d3808c0d317cf7358794caf55967935099d8a$nome=1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79a30e94e31f534e3ecee5316f1c9336799437dc$nome=720p - Legendado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79a30e94e31f534e3ecee5316f1c9336799437dc$nome=720p ([COLOR gray]EN[/COLOR])endado</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/q8EHNzMUO2mqNTM0h95YfTzGhDW.jpg</thumbnail>
 <info>Eleanor Lance (Lili Taylor), uma mulher bastante solitaria que tem insônia, resolve atender ao chamado de ir ate Hill House para se encontrar com o Dr. David Marrow (Liam Neeson), que vai fazer la uma experiência com ela. La estao tambem Theo (Catherine Zeta-Jones), uma bela mulher bissexual que aparenta ser bastante independente, e Luke (Owen Wilson), que sente-se atraido por Theo e o primeiro a perceber que o estudo nao tem nada ligado a problemas de insônia. Eleanor, ou melhor Nell, como gosta de ser chamada, a pessoa mais sensivel do grupo e sente-se fortemente atraida pela casa. O grupo avisado que ninguem chega perto da mansao quando escurece, assim ninguem podera ouvir seus gritos. Eles acham o aviso estranho mas logo o entendem quando se deparam com estranhos acontecimentos, principalmente Nell, que ouve vozes de crianças pedindo para serem libertadas. Gradativamente eles descobrem o terrivel segredo, que envolve a Hill House.</info>
 </item>
@@ -6330,7 +6330,7 @@ Juliet Devereau (Hilary Swank), uma jovem medica, acredita ter encontrado o luga
 <item>
 <title>Melanie – A Última Esperança </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:804c6523d33afddb5a755ef820f0aec2d54dbcd9$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71e16f4d2d32477863b4a39f5f492921cf69a397$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71e16f4d2d32477863b4a39f5f492921cf69a397$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/sSrf4ZzeBgvbgbxgHvuh8PL2kQ2.jpg</thumbnail>
 <info>Em um futuro proximo, algumas crianças sao mantidas como refens por um cientista em busca da cura para uma doença que infestou todo o planeta. Melanie, uma garotinha com dons muito especiais, chama a atençao de Helen Justineau e da Dr. Caroline Caldwell, que decidem embarcar em uma jornada com a menina.</info>
 </item>
@@ -6339,7 +6339,7 @@ Juliet Devereau (Hilary Swank), uma jovem medica, acredita ter encontrado o luga
 <item>
 <title>A Casa Silenciosa </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3402adea11129d8df6a2c206dc9036b99f12101c$nome=[COLOR white]720p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6e4a97242d822387fe81838575e0ef483aa988e$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6e4a97242d822387fe81838575e0ef483aa988e$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/qrjjNKUQikiPoS8tK0vSTtruig.jpg</thumbnail>
 <info>A jovem Sarah (Elizabeth Olsen), seu pai John (Adam Trese) e seu tio Peter (Eric Sheffer Stevens) estao arrumando uma antiga da casa de campo da familia, agora abandonada, no intuito de coloca-la à venda. Quando os dois homens entram em uma discussao, Peter resolve descansar e ir ate a cidade, deixando Sarah e seu pai sozinhos na casa. So que, aos poucos, fatos estranhos acontecem dentro da casa, deixando Sarah cada vez mais apavorada.</info>
 </item>
@@ -6348,7 +6348,7 @@ Juliet Devereau (Hilary Swank), uma jovem medica, acredita ter encontrado o luga
 <item>
 <title>O Morto Vivo </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4405535caf3a0d44903bd18274eb2b2eddd37373$nome=[COLOR white]1080p[/COLOR]</link>1
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4fe4be4fafc40ae60db47d7952dcf0f664f17d6$nome=[COLOR white]720p - Legendado[/COLOR]</link>2
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4fe4be4fafc40ae60db47d7952dcf0f664f17d6$nome=[COLOR white]720p ([COLOR gray]EN[/COLOR])endado[/COLOR]</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg</thumbnail>
 <info>Historia sobre uma peste antiga que infecta recorrentemente a sociedade moderna. Na noite do seu funeral, Bart, um soldado morto no Iraque ergue-se da sepultura e segue em direçao à casa do seu amigo Joey. De madrugada, o corpo de Bart tomba, regressando à vida apenas no pôr-do-sol seguinte. Os dois amigos concluem que Bart e um zombie consciente que precisa beber sangue para evitar a decomposiçao do seu corpo.</info>
 </item>
