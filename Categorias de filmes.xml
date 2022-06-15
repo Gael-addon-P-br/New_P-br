@@ -1,5 +1,18 @@
 <channels>                                                     
 <channel>
+<name>[COLOR yellow]DICA[/COLOR]: Para buscar um filme em especifico,entre no genero selecionado e ao seu lado esquerdo,clique em 'FILTRO'</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://</fanart>
+<info>Para buscar um filme em especifico,entre no genero selecionado e ao seu lado esquerdo,clique em 'FILTRO'
+  
+[COLOR red]AVISO[/COLOR]: Não vendemos IPTV, esse addon é totalmente gratuito. Doaçoes sao feitas por livre e espontanea vontade!  
+</info>
+</channel>
+</channels>
+
+<channels>                                                     
+<channel>
 <name>[COLOR green]•[/COLOR][COLOR white]AÇÃO[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23A%C3%A7%C3%A3o.xml</externallink>
@@ -271,7 +284,7 @@ EM CONSTRUÇÃO
 <channel>
 <name>[COLOR green]•[/COLOR][COLOR white]TERROR[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
-<externallink>hhttps://github.com/Gael-addon-P-br/New_P-br/raw/main/terror.xml</externallink>
+<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/terror.xml</externallink>
 <fanart>https://</fanart>
 <info>
 [B][COLOR green]▲[/COLOR]ONLINE[/B]
