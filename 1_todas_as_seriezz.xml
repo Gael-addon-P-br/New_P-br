@@ -1,21 +1,47 @@
-<channels></channels>
-<channel>
-<name>Anjos da Vida: Mais Bravos que o Mar</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
-<item>
-<title>1080p</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
-<info></info>
-</item>
+<channels><channel>
+<name>The Old Man [COLOR yellow]8.5[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Series-one/raw/main/serie%20the%20old%20man</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euYz4adiSHH0GE3YnTeh3uLfBvL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yoFgLaM1GCRMouDwYnGydISgFlB.jpg</fanart>
+<genre>Action & Adventure, Drama</genre>
+<aired>2022/06/16</aired>
+<studio>FX</studio>
+<votes>85</votes>
+<info>
+[COLOR cyan][B]Streaming[/COLOR][/B]: [B]Outros streamings[/B]
 
-<item>
-<title>720p</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a6df8008eabeec7548f822c926b79351e965298</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
-<info></info>
-</item>
-</channel>
+Um ex-agente da CIA, que vive fora da rede, se vê fugindo de pessoas que querem matá-lo.
+</info>
+</channel></channels>
+---------------------------------------------
+<channels><channel>
+<name>Do Nada, Grávida [COLOR yellow]5.9[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Series-one/raw/main/serie%20Do%20Nada%2C%20Gr%C3%A1vida</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IB4i5gdWQF8KGvt5dwjRv2lMfM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mXOesA4JposTlWrAARAIQnesU5U.jpg</fanart>
+<genre>Drama</genre>
+<aired>2022/06/08</aired>
+<studio>NETFLIX</studio>
+<votes>56</votes>
+<info>Durante uma bebedeira, uma especialista em fertilização se insemina com o esperma do ex-namorado. Agora, ela precisa explicar a gravidez e reconquistar o antigo amor.</info>
+</channel></channels>
+---------------------------------------------
+<channels><channel>
+<name>Maldivas [COLOR yellow]7.8[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Series-one/raw/main/serie%20maldivas</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tTGH2NXwFwFv2VmrrPY0b4cVgFz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cqnpJltnEPrItD9nABsx7h1C4iW.jpg</fanart>
+<genre>Comédia, Drama</genre>
+<aired>2022/06/10</aired>
+<studio>NETFLIX</studio>
+<votes>72</votes>
+<info>
+[COLOR cyan][B]Streaming[/COLOR][/B]: [B]Netflix[/B]
+
+A goiana Liz se muda para o Condomínio Maldivas, no Rio de Janeiro, com o objetivo de reencontrar sua mãe, que morre em um incêndio misterioso. Tentando buscar respostas para a repentina morte, ela terá que se esconder do investigador Denilson, e se infiltrar em um universo cheio de personagens peculiares.
+</info>
+</channel></channels>
+---------------------------------------------
 ------------------
 <channels>
 <channel>
