@@ -1,5 +1,19 @@
 <channels>
 <channel>
+<name>The Umbrella Academy [COLOR yellow]8.0[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/vKlZXlvPdq6cRJHx47J8FsU9W8P.jpg</thumbnail>
+<fanart>https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/02/The-Umbrella-Academy-1280x720.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/Series-one/main/serie%20the%20umbrella%20academy</externallink>
+<info>[COLOR cyan][B]Streaming[/COLOR][/B]:[B]Netflix[/B]
+
+Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade.</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
 <name>The Boys [COLOR yellow]8.7[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/g3HjUeFCwKOfBxlM97lv016mnol.jpg</thumbnail>
 <fanart>https://ultimatodobacon.com/wp-content/uploads/2019/08/The-Boys-Wall-1080x675.jpg</fanart>
@@ -597,19 +611,6 @@ Mike Ross (Patrick J. Adams) é um garoto que abandonou a faculdade de direito m
 <info>[COLOR cyan][B]Streaming[/COLOR][/B]:[B]Netflix[/B]
 
 The Blacklist narra a história de Raymond, um ex-militar do serviço de inteligência que se transforma em um dos criminosos mais procurados do governo. Sem mais nem menos, ele se entrega aos federais após passar anos fugindo da lei. Sem revelar os motivos que o levaram a fazer isso, Raymond concorda em ajudar a polícia a capturar o terrorista Ranko Zamani (que era dado como morto), bem como outros criminosos que fazem parte de uma lista, na condição de que ele trabalhe ao lado de Elizabeth Keen, uma agente novata do FBI que, aparentemente, não tem nenhuma conexão com ele.</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>The Umbrella Academy [COLOR yellow]8.0[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/vKlZXlvPdq6cRJHx47J8FsU9W8P.jpg</thumbnail>
-<fanart>https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/02/The-Umbrella-Academy-1280x720.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/Series-one/main/serie%20the%20umbrella%20academy</externallink>
-<info>[COLOR cyan][B]Streaming[/COLOR][/B]:[B]Netflix[/B]
-
-Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade.</info>
 </channel>
 </channels>
 
