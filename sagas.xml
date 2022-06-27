@@ -36,6 +36,17 @@ A estudante de literatura Anastasia Steele, de 21 anos, entrevista o jovem bilio
 </channel>
 </channels>
 -----------------------------------------
+<channels><channel>
+<name>A Centopéia Humana</name>
+---<externallink>https://github.com/Gael-addon-P-br/Trilogi-one/raw/main/trilogia%20A%20Centopeia%20Humana</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f969yH5iuSAh2IuKLik9c2iFdHp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l212Ivv1ZDyvT16Gfn1ASzUzF0f.jpg</fanart>
+<genre>Terror</genre>
+<aired>2009/04/26</aired>
+<info>Coleçao completa</info>
+</channel></channels>
+---------------------------------------------
+
 <channels>
 <channel>
 <name>A escolha perfeita</name>
@@ -170,6 +181,18 @@ O primeiro filme, Anjos da Noite, lançado em 2003, foi dirigido por Len Wiseman
 </channel>
 </channels>
 ------------------------------------
+<channels><channel>
+<name>Animais Fantásticos</name>
+---<externallink>https://github.com/Gael-addon-P-br/Trilogi-one/raw/main/trilogia%20animais%20fantasticos</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3BKTfkCPdEvzZ6Wyyhrwi3HujlS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg</fanart>
+<genre>Fantasia, Aventura, Ação</genre>
+<aired>2016/11/17</aired>
+<studio>hbomax</studio>
+<info>Coleçao completa
+</info>
+</channel></channels>
+
 <channels>
 <channel>
 <name>Até que a Sorte nos Separe</name>
@@ -886,6 +909,19 @@ Se o casal mais famoso e eficiente da espionagem é capturado, quem assume a mis
 </channel>
 </channels>
 ----------------------------
+<channels><channel>
+<name>Perseguição</name>
+---<externallink>https://github.com/Gael-addon-P-br/Trilogi-one/raw/main/trilogia%20persegui%C3%A7ao</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fRL8qsaWPj0pZ7XMslQZxT3V0hC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mIcTiFp1jVSeOIgcTAEGpSyQV3y.jpg</fanart>
+<genre>Mistério, Thriller, Drama</genre>
+<aired>2001/12/27</aired>
+<studio>DISNEY</studio>
+<votes></votes>
+<info>Coleçao completa</info>
+</channel></channels>
+---------------------------------------------
+
 <channels>
 <channel>
 <name>Piratas do Caribe</name>
