@@ -121,6 +121,21 @@ Agora em uma versão adolescente, a pantera ainda se livra de todas as encrencas
 </info>
 </channel>
 </channels>
+ 
+<channels><channel>
+<name>A Turma Do Manda-Chuva [COLOR yellow]7.1[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Animes-one/raw/main/desenho%20manda-chuva</externallink>
+<thumbnail>https://archive.org/download/hnWYwPE7nwqAD1OGLEEXyML5LaH/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rLi9jo0FFLkm0nvM6q8IygT8DfD.jpg</fanart>
+<genre>Animação, Comédia, Kids</genre>
+<aired>1961/09/27</aired>
+<studio>HBOSTUDIOS</studio>
+<info>
+Manda-Chuva é o líder de uma gangue de Nova York de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Uma
+
+frequente linha do enredo girava em torno do policial local, Guarda Belo, e suas tentativas ineficazes de expulsar a gangue.
+</info>
+</channel></channels> 
 
 <channels>
 <channel>
@@ -346,6 +361,19 @@ Um ano depois que Ben Tennyson derrota Vilgax, ele é reconhecido mundialmente c
 </channel>
 </channels>
 
+<channels><channel>
+<name>Brickleberry [COLOR yellow]7.2[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Animes-one/raw/main/desenho%20brickleberry</externallink>
+<thumbnail>https://archive.org/download/hnWYwPE7nwqAD1OGLEEXyML5LaH/nLeOBqvDWuZfyMq7DGRT13YDRNK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ulmOoXIsaTMAD9hMBoF9lXouy8v.jpg</fanart>
+<genre>Comédia, Animação</genre>
+<aired>2012/04/14</aired>
+<studio>STARPLUS</studio>
+<rated>R</rated>
+<info>
+Uma série de animação de comédia centrada em uma equipe de guardas-florestais desajustados, subqualificados e desinteressados. Enfrentando o fechamento de seu parque, um novo guarda-florestal junta-se à guarda para dar forma a esta equipe disfuncional. A série acompanha o bando louco de guardas-florestais que dão o melhor de si para manter o parque nacional funcionando.
+</info>
+</channel></channels>
 
 C
 
@@ -486,7 +514,21 @@ Conheça as provações e os apuros de Doug, um menino de onze anos e meio que, 
 </channel>
 </channels>
 ----------------------------------
+<channels><channel>
+<name>Dragões: A Série [COLOR yellow]7.9[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Animes-one/raw/main/desenho%20dragoes</externallink>
+<thumbnail>https://archive.org/download/hnWYwPE7nwqAD1OGLEEXyML5LaH/1qrUg0bzRAQQm9U1oMK5OLtpx7d.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vLhIGZ3Y9rEcHudzRsdubqrQzqT.jpg</fanart>
+<genre>Animação, Action & Adventure, Sci-Fi & Fantasy, Comédia</genre>
+<aired>2012/08/07</aired>
+<studio>HBOPLUS</studio>
+<info>Depois de Soluço e seu companheiro Fúria da Noite, Banguela, salvou o povo de Berk, derrotando a Morte Rubra, que inspirou os Vikings de Berk fazer as pazes com os dragões. No entanto, Soluço descobre que a co-habitação está longe de ser harmonioso com a ignorância Viking e os instintos dos Dragões ameaçam destruir a aliança. 
 
+Para resolver o problema, Soluço, organiza a Academia Dragões de Berk, ele e os amigos podem aprender tudo sobre dragões. Para provara aldeia e combater vilões como Alvin , os adolescentes Vikings de Berk e seus dragões dedicar-se a alcançar um entendimento vital.
+</info>
+</channel></channels>
+ -----------------------------
+ 
 <channels>
 <channel>
 <name>Dragões: Corrida até o Limite [COLOR yellow]8.2[/COLOR]</name>
@@ -1078,7 +1120,6 @@ As aventuras do pinguim Pingu com sua família e seus amigos, que vivem felizes 
 <channels>
 <channel>
 <name>Pinky e o Cérebro [COLOR yellow][B](7.8[/COLOR]</name>
----<externallink>https://</externallink>
 <thumbnail>https://br.web.img3.acsta.net/pictures/15/09/01/15/54/041344.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/rjp4LtSn5Jw/maxresdefault.jpg</fanart>
 <genre>Animação, Comédia</genre>
