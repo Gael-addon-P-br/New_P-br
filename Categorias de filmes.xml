@@ -25,11 +25,25 @@
 </info>
 </channel>
 </channels>
+-----------------------------------
+<channels>                                                     
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AVENTURA[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/Aventura.xml</externallink>
+<fanart>https://</fanart>
+<info>
+
+[B][COLOR green]▲[/COLOR]ONLINE[/B]
+
+</info>
+</channel>
+</channels>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR white]BIOGRAFIA[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]BIOGRAFIA[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220125/icon.png</thumbnail>
 <externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/Biografia.xml</externallink>
 <fanart>https://</fanart>
