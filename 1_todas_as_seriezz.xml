@@ -2,6 +2,22 @@ Pode copiar,Gadelha. eu tbm sei fazer encode do seu default.py, Mas ao inves de 
 #Por isso os addons de vcs nunca fazem sucesso,bando de copiador barato kkkkk
 
 <channels><channel>
+<name>Resident Evil: A Série [COLOR yellow]4.8[/COLOR]</name>
+---<externallink>https://github.com/Gael-addon-P-br/Series-one/raw/main/serie%20resident%20evil</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/k8rNqXvZ4A5xkRwIwLUg0pJ1hL9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u4MWwwXaSPVV02sXH250ZoecXii.jpg</fanart>
+<genre>Drama, Sci-Fi & Fantasy</genre>
+<aired>2022/07/14</aired>
+<studio>NETFLIX</studio>
+<info>
+[COLOR cyan][B]Streaming[/COLOR][/B]: [B]NETFLIX[/B]
+
+Quase três décadas após a descoberta de um vírus mortal, um surto revela os segredos obscuros da Umbrella Corporation. Baseado na franquia de terror.
+</info>
+</channel></channels>
+---------------------------------------------
+
+<channels><channel>
 <name>PCC: Poder Secreto [COLOR yellow]8.1[/COLOR]</name>
 ---<externallink>https://github.com/Gael-addon-P-br/Series-one/raw/main/serie%20pcc</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jatkeB0a9RvlGJhhaeeZCekEKd0.jpg</thumbnail>
