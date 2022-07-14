@@ -1,4 +1,19 @@
 <item> 
+<title>Lightyear (EN)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9354d1b6c95da80b5bca2fe633388124fb20acc8$nome=Lightyear 2022 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b486f55af4418cf22c7894fed372ff77e9adc836$nome=Lightyear 2022 4K</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tqUD26YGjKmFqOJAgbNBah1gX0N.jpg</fanart>
+<genre>Animação, Ficção científica, Aventura, Ação, Família</genre>
+<year>2022</year>
+<rate>4.6</rate>
+<aired>2022/06/16</aired>
+<duration>6420</duration>
+<info>A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.</info>
+</item>
+----------------------------------------------------------------------------
+
+<item> 
 <title>The Black Phone (EN)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3feeb0a65e43e2360ecbd3b85cc7e4522b9e4e9d$nome=The Black Phone 2022 1080P</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcbc8397d25b41467c163f2f35dc9da9673e970b$nome=The Black Phone 2022 4K</link>
@@ -27,7 +42,19 @@
 <info>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.</info>
 </item>
 ----------------------------------------------------------------------------
-
+<item> 
+<title>South Park: Guerras do Streaming Parte 2</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ab98fac8a52acd04baf184e76df2a7a38286e87</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqWXH5rYHTD32I5RY6pHR828BrO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lILJHBKPllHrssoXQqHfchsyb8v.jpg</fanart>
+<genre>Animação, Comédia</genre>
+<year>2022</year>
+<rate>6.4</rate>
+<aired>2022/07/14</aired>
+<duration>3120</duration>
+<info>Uma seca deixa a cidade de South Park à beira de um desastre.</info>
+</item>
+----------------------------------------------------------------------------
 <item> 
 <title>Doula</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84ce77cf0158b0ae3a266a98ed05b271191c0e99</link>
