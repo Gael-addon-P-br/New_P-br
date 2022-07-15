@@ -1,4 +1,16 @@
 <item>
+<title>Jurassic World: Dominio ([COLOR gray]4K[/COLOR]) </title>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf171e1d2aea3095cfef1d042c3b5df1351d20d7$nome=Jurassic World: Dominio (4K)</link>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09f453594e9be342d461f5b099a7178931f44f15$nome=Jurassic World 3: Dominion (4K) (EN)</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
+<genre>Ação, Aventura, Ficção científica</genre>
+<year>2022</year>
+<rate>5.9</rate>
+<aired>2022/06/01</aired>
+</item>
+
+
+<item>
 <title>Lightyear (EN) ([COLOR gray]4K[/COLOR]) </title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b486f55af4418cf22c7894fed372ff77e9adc836</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
@@ -16,33 +28,6 @@
 <year>2022</year>
 <rate>7.4</rate>
 <aired>2022/05/29</aired>
-</item>
-
-<item>
-<title>Jurassic World: Dominio (EN) ([COLOR gray]4K[/COLOR]) </title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09f453594e9be342d461f5b099a7178931f44f15</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção científica</genre>
-<year>2022</year>
-<rate>5.9</rate>
-<aired>2022/06/01</aired>
-</item>
-
-
-<item>
-<title>Crimes of the Future (EN) ([COLOR gray]4K[/COLOR]) </title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8ce5e7c63a7d54a6dd01814e0ce386adc5aea28</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg</thumbnail>
-<aired>2022/06/03</aired>
-<genre>Drama, Terror, Ficção científica</genre>
-</item>
-
-<item>
-<title>Watcher (EN) ([COLOR gray]4K[/COLOR]) </title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5890a0b711c1b9af2871cfcec2d72fbba3bc2c</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ehdmbbIESD37SEGMMO8Ov262Vmc.jpg</thumbnail>
-<aired>2022/06/03</aired>
-<genre>Mistério, Thriller, Terror</genre>
 </item>
 
 -----------------------------
@@ -302,6 +287,21 @@ Ação | Aventura
 --<link>https://animezey.xyz/0:/Filmes/Filmes%20no%20geral/Dune%20(2021)/HBO%20Max%20-%20WEB-DL%202160p%20HEVC/[HBO%20Max]%20Dune%20(2021)%20[WEB-DL%202160p].mkv$nome=Dune.2021 ([COLOR gray]4K[/COLOR]) [L][/COLOR][/B]</link>
 </item>
 
+<item>
+<title>Crimes of the Future (EN) ([COLOR gray]4K[/COLOR]) </title>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8ce5e7c63a7d54a6dd01814e0ce386adc5aea28</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg</thumbnail>
+<aired>2022/06/03</aired>
+<genre>Drama, Terror, Ficção científica</genre>
+</item>
+
+<item>
+<title>Watcher (EN) ([COLOR gray]4K[/COLOR]) </title>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5890a0b711c1b9af2871cfcec2d72fbba3bc2c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ehdmbbIESD37SEGMMO8Ov262Vmc.jpg</thumbnail>
+<aired>2022/06/03</aired>
+<genre>Mistério, Thriller, Terror</genre>
+</item>
 
 
 <item>
