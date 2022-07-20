@@ -101,7 +101,24 @@
 	</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
+<channels>
+	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
+		<thumbnail>https://news.mynavi.jp/article/20160123-ces2016_dolby/index_images/index.jpg</thumbnail>
+		<externallink>https://bit.ly/3ohzOm1</externallink>
+		<fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
+		<info>
+		[B][COLOR red]AVISO[/COLOR]!!!: Não utilize essa aba se voce nao possui um televisor com tela dolby vision. Pois,pode queimar seus leds por causa do brilho.[/B]
 
+[B][COLOR red]●[/COLOR]Apenas filmes com audio original (EN)		
+[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
+[B][COLOR red]●[/COLOR]Arquivos em 4K[/B]
+[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
+[B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]
+</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
 <channels>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] LINK DIRETO</name>
