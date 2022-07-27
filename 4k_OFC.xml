@@ -1,7 +1,23 @@
+<item> 
+<title>Chamas da Vingança ([COLOR gray]4K[/COLOR])</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5a5c78b216fe0694e613fe1da1b3872016daba</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg</thumbnail>
+<genre>Thriller, Ficção científica</genre>
+<aired>2022/05/12</aired>
+</item>
+
+<item> 
+<title>Agente Oculto ([COLOR gray]4K[/COLOR])</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a338dd4940bd2eeba895fb462cb21801131343d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
+<genre>Ação, Thriller, Aventura</genre>
+<rate>6.8</rate>
+<aired>2022/07/14</aired>
+</item>
+
 <item>
 <title>Jurassic World: Dominio ([COLOR gray]4K[/COLOR]) </title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf171e1d2aea3095cfef1d042c3b5df1351d20d7$nome=Jurassic World: Dominio (4K)</link>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09f453594e9be342d461f5b099a7178931f44f15$nome=Jurassic World 3: Dominion (4K) (EN)</link>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf171e1d2aea3095cfef1d042c3b5df1351d20d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
 <genre>Ação, Aventura, Ficção científica</genre>
 <year>2022</year>
