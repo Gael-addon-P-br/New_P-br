@@ -25,6 +25,13 @@
 <aired>2022/06/01</aired>
 </item>
 
+<item>
+<title>Edge Of Tomorrow  (EN) ([COLOR gray]4K[/COLOR])</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05ccbdd23394f98a761bd445f4efe9b4ffa9bf11</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg</thumbnail>
+<aired>2014/05/28</aired>
+</item> 
+
 
 <item>
 <title>Lightyear (EN) ([COLOR gray]4K[/COLOR]) </title>
@@ -2398,22 +2405,8 @@ Ação | Aventura
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53db9f89ebc8c61c77ca9c0ad8b50fd55d3081f4</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pMqAjEyj234escPleCthcmh84ka.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>No Limite do Amanhã ([COLOR gray]4K[/COLOR]) </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c80654ac3be4109cbfcf65237a744eacc0520d71</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg</thumbnail>
-<info>
-</info>
-
-</item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
